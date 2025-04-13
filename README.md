@@ -22,8 +22,8 @@ OpenAPI (Swagger) Test Run Query Get Data that returns expected data in JSON for
 ### REFERENCES, EXAMPLES AND QUICKSTARTS
 
 - [Tutorial: Create a minimal web API with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-6.0&tabs=visual-studio?WT.mc_id=AZ-MVP-5004251)
--  [Minimal Web APIs in .NET and Azure API Management Combined by Jonah Andersson](https://jonahandersson.tech/minimal-web-apis-in-net-and-azure-api-management-combined/)
+
 - [Microsoft Docs: Minimal APIs Overview](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis?view=aspnetcore-6.0?WT.mc_id=AZ-MVP-5004251)
-- [Introduction to Minimal APIs in .NET 6 by Claudio Bernasconi](https://www.claudiobernasconi.ch/2022/02/23/introduction-to-minimal-apis-in-dotnet6/)
+
 - [Code Maze: Minimal APIs in .NET 6](https://code-maze.com/dotnet-minimal-api/)
 - [Code Maze:Configuring and Using Swagger UI in ASP.NET Core Web API](https://code-maze.com/swagger-ui-asp-net-core-web-api)
